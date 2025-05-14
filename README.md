@@ -15,31 +15,31 @@ Este repositório contém as instruções para fazer um **Tsuru**, uma tradicion
 ## 📷 Passo a Passo
 
 ### 1. Corte um quadrado de 15 cm no papel dupla face da cor de sua preferência.
-![Passo 1](./imgs/img01.jpg)
+![Passo 1](./imgs/img1.jpg)
 
 ### 2. Vire o papel, colocando o lado sem cor para cima, e dobre na diagonal (forma de losângulo).
-![Passo 2](./imgs/img02.jpg)
+![Passo 2](./imgs/img2.jpg)
 
 ### 3. Dobre o papel ao meio de forma que as pontas se encontrem. Passe a mão várias vezes sobre a dobra para marcá-la bem.
-![Passo 3](./imgs/img03.jpg)
+![Passo 3](./imgs/img3.jpg)
 
 ### 4. O losângulo agora assumiu a forma de um triângulo. Inverta sua posição, colocando a base para cima e o bico para baixo.
-![Passo 4](./imgs/img04.jpg)
+![Passo 4](./imgs/img4.jpg)
 
 ### 5. Pegue a lateral da base e una-a à outra lateral da base. Bico com bico e marque bem as dobras.
-![Passo 5](./imgs/img05.jpg)
+![Passo 5](./imgs/img5.jpg)
 
 ### 6. Agora, pegue a pontinha do último bico (somente o de cima) e levante-a.
-![Passo 6](./imgs/img06.jpg)
+![Passo 6](./imgs/img6.jpg)
 
 ### 7. Segure a base com a mão e separe as laterais do bico que você levantou. Pegue a pontinha do bico e una-a com o bico inferior da base. Passe a unha várias vezes sobre as dobras para marcá-las bem.
-![Passo 7](./imgs/img07.jpg)
+![Passo 7](./imgs/img7.jpg)
 
 ### 8. Vire o trabalho e repita o último passo no bico que sobrou.
-![Passo 8](./imgs/img08.jpg)
+![Passo 8](./imgs/img8.jpg)
 
 ### 9. Passe as unhas várias vezes sobre as dobras do losângulo para que elas fiquem bem marcadas.
-![Passo 9](./imgs/img09.jpg)
+![Passo 9](./imgs/img9.jpg)
 
 ### 10. O losângulo formado possui um bico de pontas soltas. Cuide para que estas pontas fiquem para baixo. Dobre o primeiro bico da lateral até a metade do losângulo.
 ![Passo 10](./imgs/img10.jpg)
