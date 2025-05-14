@@ -39,31 +39,31 @@ Este repositório contém as instruções para fazer um **Tsuru**, uma tradicion
 ![Passo 8](./imgs/img8.jpg)
 
 ### 9. Passe as unhas várias vezes sobre as dobras do losângulo para que elas fiquem bem marcadas.
-![Passo 9](./imgs/img9.jpg)
+![Passo 9](./imgs/img29.jpg)
 
-### 10. O losângulo formado possui um bico de pontas soltas. Cuide para que estas pontas fiquem para baixo. Dobre o primeiro bico da lateral até a metade do losângulo.
-![Passo 10](./imgs/img10.jpg)
+### 10. O losângulo formado possui um bico de pontas soltas. Cuide para que estas pontas fiquem para baixo. Dobre o primeiro bico da lateral até a metade do losângulo. Faça com o segundo também.
+![Passo 10](./imgs/img9.jpg)
 
-### 11. Faça o mesmo com a ponta lateral do outro lado.
+### 11. Faça o mesmo com as pontas laterais do outro lado.
+![Passo 11](./imgs/img10.jpg)
+
+### 12. Agora, dobre o bico superior do losângulo sobre o trabalho e marque bem a última dobra. 
 ![Passo 11](./imgs/img11.jpg)
 
-### 12. Agora, dobre o bico superior do losângulo sobre o trabalho e marque bem a última dobra. Levante-a para que volte ao seu estado anterior.
-![Passo 12](./imgs/img12.jpg)
+### 13. Levante-a para que volte ao seu estado anterior. Abra as duas últimas dobraduras, voltando o losângulo ao que era antes.
+![Passo 13](./imgs/img12.jpg)
 
-### 13. Abra as duas últimas dobraduras, voltando o losângulo ao que era antes.
-![Passo 13](./imgs/img13.jpg)
+### 14. Perceba que ao desfazer os últimos passos, criamos a marca de um triângulo invertido dentro do losângulo. Levante a ponta inferior do losângulo até a marca feita na parte superior. Repita do lado oposto.
+![Passo 14](./imgs/img13.jpg) ![](./imgs/img14.jpg) ![](./imgs/img15.jpg)
 
-### 14. Perceba que ao desfazer os últimos passos, criamos a marca de um triângulo invertido dentro do losângulo. Levante a ponta inferior do losângulo até a marca feita na parte superior.
-![Passo 14](./imgs/img14.jpg)
+### 15. Depois de levantar a ponta, dobre o bico lateral da parte levantada até a metade do trabalho, seguindo as marcas feitas. Passe os dedos lentamente sobre as marcas, ajeitando o papel. Faça o mesmo com o bico da outra lateral.
+![Passo 15](./imgs/img17.jpg)
 
-### 15. Depois de levantar a ponta, dobre o bico lateral da parte levantada até a metade do trabalho, seguindo as marcas feitas. Passe os dedos lentamente sobre as marcas, ajeitando o papel.
-![Passo 15](./imgs/img15.jpg)
 
-### 16. Faça o mesmo com o bico da outra lateral.
-![Passo 16](./imgs/img16.jpg)
+![Passo 16](./imgs/img18.jpg)
 
 ### 17. Vire o trabalho. Dobre os bicos laterais até se encontrarem na marca central. Passe as unhas várias vezes sobre as dobras, marcando-as bem.
-![Passo 17](./imgs/img17.jpg)
+![Passo 17](./imgs/img19.jpg)
 
 ### 18. Dobre o pequeno triângulo central sobre o trabalho. Passe as unhas várias vezes, marcando a dobradura.
 ![Passo 18](./imgs/img18.jpg)
