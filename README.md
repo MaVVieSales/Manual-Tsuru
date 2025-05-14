@@ -104,8 +104,6 @@ Este repositório contém as instruções para fazer um **Tsuru**, uma tradicion
 
 Agora seu **Tsuru** está pronto! Parabéns!
 
-![Tsuru Finalizado](./imgs/img28.jpg)
-
 ---
 
 ## 🧷 Licença
